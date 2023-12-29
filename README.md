@@ -35,5 +35,10 @@ This project is maintained by Jaya Pandey.
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
+### Description:
+
+This video provides a walkthrough and demonstration of our Java-based ATM Simulator System, a part of our final year project. In this demonstration, you'll see key features such as user authentication, balance inquiry, cash withdrawal, cash deposit, funds transfer, changing PIN, and viewing transaction history. The application utilizes Java Swing and AWT for the graphical user interface, making it user-friendly and interactive.
+
+Feel free to explore the features showcased in the video, and for more details, refer to the [project repository.
 
 https://github.com/JayaPandey-jp/JAVA-Final-Year-Project/assets/127422073/50fc41db-cfaf-4445-aad9-86e901f75539
